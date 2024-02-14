@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 <h1 align="center"> Hi there, I'm Gitanjali Soni! 👋</h1>
 <p align="center">I'm a Software engineer specializing in building (and occasionally designing) exceptional digital experiences. As a web developer, I'm passionate about crafting user-friendly interfaces and scalable solutions. 💻 Delving into tech with curiosity and creativity, I love collaborating and learning from the community. Let's connect and create something amazing together! 🌱</p>
 <p align="center">
-  Connect with me on <a href="www.linkedin.com/in/gitanjali-soni-v2003">LinkedIn</a>
+  Connect with me on <a href="www.linkedin.com/in/gitanjali-soni">LinkedIn</a>
 </p>
